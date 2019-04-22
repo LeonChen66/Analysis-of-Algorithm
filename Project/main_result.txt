@@ -1,0 +1,36 @@
+1 time try
+Dijkstra with Heap running time: 0.100949
+Dijkstra without Heap running time: 2.037242
+Kruskal running time: 0.064976
+Dijkstra with Heap running time: 5.306987
+Dijkstra without Heap running time: 8.598579
+Kruskal running time: 18.121267
+2 time try
+Dijkstra with Heap running time: 0.125904
+Dijkstra without Heap running time: 2.058311
+Kruskal running time: 0.066149
+Dijkstra with Heap running time: 3.102439
+Dijkstra without Heap running time: 9.502560
+Kruskal running time: 18.853004
+3 time try
+Dijkstra with Heap running time: 0.176567
+Dijkstra without Heap running time: 2.083129
+Kruskal running time: 0.070710
+Dijkstra with Heap running time: 4.492554
+Dijkstra without Heap running time: 10.014271
+Kruskal running time: 18.593731
+4 time try
+Dijkstra with Heap running time: 0.122161
+Dijkstra without Heap running time: 1.930898
+Kruskal running time: 0.068403
+Dijkstra with Heap running time: 5.413362
+Dijkstra without Heap running time: 10.367247
+Kruskal running time: 18.192760
+5 time try
+Dijkstra with Heap running time: 0.072598
+Dijkstra without Heap running time: 1.972576
+Kruskal running time: 0.066541
+Dijkstra with Heap running time: 3.132218
+Dijkstra without Heap running time: 8.363130
+Kruskal running time: 16.263599
+
